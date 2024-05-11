@@ -1,0 +1,3 @@
+Questions List ->
+
+1. Jump Game (maxJump variable, Corner Case -> [0,2,3])
